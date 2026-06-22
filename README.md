@@ -5,3 +5,6 @@
 <img width="1589" height="853" alt="image" src="https://github.com/user-attachments/assets/14af3406-543f-402b-91e8-67c3a771cb08" />
 
 Ссылка на gitlab --- https://gitlab.com/tms-homework/less-32
+
+3. Уведомление в телеграм
+<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/00e503c3-8bb3-43d6-8a93-66cade734e5b" />
